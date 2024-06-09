@@ -20,7 +20,7 @@
 				</label>
 				<label class="block">
 					<span class="mb-1">¿Qué servicio necesitas?</span>
-					<input type="text" placeholder="Introduce tu número de teléfono..." class="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri">
+					<input type="text" placeholder="Coméntanos..." class="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri">
 				</label>
 				<label class="block">
 					<span class="mb-1">Cuéntanos más a detalle:</span>

@@ -10,7 +10,7 @@
             </h1>
 
             <div class="mt-10 lg:mt-20 lg:flex">
-                <img class="object-cover object-center w-full lg:w-[32rem] rounded-lg h-96" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="">
+                <img class="object-cover object-center w-full lg:w-[32rem] rounded-lg h-full shadow" src="../assets/carla.png" alt="Carla Álvarez Llaneza">
 
                 <div class="mt-8 lg:px-10 lg:mt-0">
                     <h1 class="text-2xl font-semibold mb-8">
