@@ -1,10 +1,13 @@
 <template>
-  <div>
-    <p class="text-blue-500">Psicoletos</p>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  <the-nav />
+  <the-hero />
+  <services-section />
+  <about-me-section />
 </template>
 
 <script setup>
-
+import TheNav from "./components/TheNav.vue"
+import TheHero from "./components/TheHero.vue"
+import ServicesSection from "./components/ServicesSection.vue"
+import AboutMeSection from "./components/AboutMeSection.vue"
 </script>
