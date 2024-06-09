@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         psicoletos: "#565766",
+        pinky: "#9d8189"
       },
     }
   },
