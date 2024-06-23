@@ -4,9 +4,9 @@
 			<div class="flex flex-row pr-3 space-x-4 sm:space-x-8">
 				<img src="../assets/logo_psicoletos.png" alt="Logo Psicoletos" class="object-scale-down max-h-full">
 			</div>
-            <ul class="flex flex-wrap items-center space-x-4 sm:space-x-8 text-sm">
+            <ul class="flex flex-wrap items-center space-x-4 sm:space-x-8">
                 <li>
-                    Creado por <a rel="noopener noreferrer" target="_blank" href="https://acadeller.com/">acadeller.</a>
+                    <p>Copyright © {{ date.getFullYear() }} <a rel="noopener noreferrer" target="_blank" href="https://acadeller.com/">Acadeller.</a></p>
                 </li>
             </ul>
 			<ul class="flex flex-wrap pl-3 space-x-4 sm:space-x-8">
@@ -29,6 +29,8 @@
 
 <script setup>
 import { onMounted } from 'vue'
+
+const date = new Date()
 
 onMounted(() => {
   // Add smooth scrolling behavior
