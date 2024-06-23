@@ -1,5 +1,5 @@
 <template>
-	<section class="m-4 md:m-8 py-12">
+	<section class="m-4 md:m-8 py-12" id="services">
 		<div class="container mx-auto p-4 my-6 space-y-2 text-center">
 			<h2 class="text-5xl font-bold text-psicoletos">Los servicios que ofrecemos</h2>
 			<p class="">Estos son los servicios que ofrecemos en Psicoletos:</p>

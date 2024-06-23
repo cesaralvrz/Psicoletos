@@ -6,8 +6,30 @@
 			</h1>
 			<p class="px-8 mt-8 mb-12 text-xl text-psicoletos">Un espacio seguro y personalizado para explorar y mejorar tu bienestar personal</p>
 			<div class="flex flex-wrap justify-center">
-				<button class="px-8 py-3 m-2 text-lg border rounded dark:text-gray-50 dark:border-gray-700">Learn more</button>
+				<button class="px-8 py-3 m-2 text-lg border rounded dark:text-gray-50 dark:border-gray-700">
+					<a rel="noopener noreferrer" href="#contact" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Ponte en contacto</a>
+				</button>
 			</div>
 		</div>
 	</section>
 </template>
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  // Add smooth scrolling behavior
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      e.preventDefault()
+      const target = document.querySelector(this.getAttribute('href'))
+      if (target) {
+        window.scrollTo({
+          top: target.offsetTop,
+          behavior: 'smooth',
+        })
+      }
+    })
+  })
+})
+</script>

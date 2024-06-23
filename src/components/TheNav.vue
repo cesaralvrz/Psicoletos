@@ -4,13 +4,13 @@
 			<img src="../assets/logo_psicoletos.png" alt="Logo Psicoletos" class="object-scale-down max-h-full">
 			<ul class="items-stretch hidden space-x-3 md:flex text-xl">
 				<li class="flex">
-					<a rel="noopener noreferrer" href="#" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Info</a>
+					<a rel="noopener noreferrer" href="#services" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Servicios</a>
 				</li>
 				<li class="flex">
-					<a rel="noopener noreferrer" href="#" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Servicios</a>
+					<a rel="noopener noreferrer" href="#about" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Sobre Mí</a>
 				</li>
 				<li class="flex">
-					<a rel="noopener noreferrer" href="#" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Contacto</a>
+					<a rel="noopener noreferrer" href="#contact" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Contacto</a>
 				</li>
 			</ul>
 			<button class="flex justify-end p-4 md:hidden">

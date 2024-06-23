@@ -1,5 +1,5 @@
 <template>
-<section class="mt-32">
+<section class="mt-32" id="about">
     <div class="relative flex">
         <div class="min-h-screen lg:w-1/3"></div>
         <div class="hidden w-3/4 min-h-screen rounded bg-gray-100 lg:block"></div>

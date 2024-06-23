@@ -1,5 +1,5 @@
 <template>
-	<section class="py-44">
+	<section class="py-44" id="contact">
 		<div class="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x divide-black">
 			<div class="py-6 md:py-0 md:px-6 my-auto">
 				<h1 class="text-4xl font-bold">Ponte en contacto con nosotros</h1>
