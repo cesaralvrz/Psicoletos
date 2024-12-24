@@ -18,7 +18,7 @@
                     </h1>
 
                     <p class="max-w-lg mt-6 text-psicoletos text-left">
-                        Soy psicóloga sanitaria (Nº M-37087) con amplia experiencia en el campo de la salud mental. A lo largo de mi carrera, he tenido el privilegio de trabajar con una amplia variedad de poblaciones, incluyendo adultos, adolescentes, niños y familias, ayudándolos a enfrentar y superar diversos desafíos emocionales y psicológicos.
+                        Soy psicóloga sanitaria (Nº M-37087) con amplia experiencia en el campo de la salud mental. A lo largo de mi carrera, he trabajado con una amplia variedad de poblaciones, incluyendo adultos, adolescentes, niños y familias, ayudándolos a enfrentar y superar diversos desafíos emocionales y psicológicos.
                     </p>
 
                     <p class="max-w-lg mt-6 text-psicoletos text-left">
