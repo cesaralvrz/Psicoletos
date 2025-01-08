@@ -6,8 +6,8 @@
 			</h1>
 			<p class="px-8 mt-8 mb-12 text-xl text-psicoletos">Un espacio seguro y personalizado para explorar y mejorar tu bienestar personal</p>
 			<div class="flex flex-wrap justify-center">
-				<button class="px-8 py-3 m-2 text-lg border rounded dark:text-gray-50 dark:border-gray-700">
-					<a rel="noopener noreferrer" href="#contact" class="flex items-center px-4 -mb-1 border-b-2 dark:border-transparent">Ponte en contacto</a>
+				<button class="px-8 py-3 m-2 text-lg border rounded text-gray-50 border-gray-700">
+					<a rel="noopener noreferrer" href="#contact" class="flex items-center px-4 -mb-1 border-b-2 border-transparent">Ponte en contacto</a>
 				</button>
 			</div>
 		</div>
