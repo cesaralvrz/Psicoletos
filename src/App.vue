@@ -3,8 +3,12 @@
   <div class="max-w-screen-xl mx-auto p-8 text-center">
     <the-hero />
     <services-section />
-    <about-me-section />
-    <contact-section />
+    <div>
+      <about-me-section />
+    </div>
+    <div>
+      <contact-section />
+    </div>
   </div>
   <the-footer />
 </template>

@@ -1,5 +1,5 @@
 <template>
-	<section class="m-4 md:m-8 py-12" id="services">
+	<div class="m-4 md:m-8 py-12" id="services">
 		<div class="container mx-auto p-4 my-6 space-y-2 text-center">
 			<h2 class="text-5xl font-bold text-psicoletos">Los servicios que ofrecemos</h2>
 			<p class="text-xl">Estos son los servicios que ofrecemos en Psicoletos:</p>
@@ -144,10 +144,10 @@
 				</svg>
 				<h3 class="my-3 text-3xl font-semibold">Guías y webinars psicológicas</h3>
 				<div class="space-y-1 leadi text-psicoletos text-xl">
-					<p>Contenido audivisual sobre diversos temas psicológicos y desarrollo personal.</p>
+					<p>Contenido audiovisual sobre diversos temas psicológicos y desarrollo personal.</p>
                     <p>Materiales prácticos y accesibles para mejorar la salud mental.</p>
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
 </template>

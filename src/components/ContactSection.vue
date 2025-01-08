@@ -1,11 +1,11 @@
 <template>
-	<section class="py-44" id="contact">
-		<div class="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x divide-black">
-			<div class="py-6 md:py-0 md:px-6 my-auto">
-				<h1 class="text-4xl font-bold">Ponte en contacto con nosotros</h1>
-				<p class="pt-2 pb-4 text-lg text-psicoletos">Si estás buscando apoyo psicológico te animo a que te pongas en contacto con nosotros para explorar cómo podemos trabajar juntos hacia tu bienestar mental y emocional.</p>
+	<section class="py-16 md:py-44" id="contact">
+		<div class="grid max-w-6xl grid-cols-1 gap-8 px-4 mx-auto lg:px-8 md:grid-cols-2">
+			<div class="py-4 md:py-0 md:pr-6 my-auto">
+				<h1 class="text-3xl md:text-4xl font-bold">Ponte en contacto con nosotros</h1>
+				<p class="pt-2 pb-4 text-base md:text-lg text-psicoletos">Si estás buscando apoyo psicológico te animo a que te pongas en contacto con nosotros para explorar cómo podemos trabajar juntos hacia tu bienestar mental y emocional.</p>
 			</div>
-			<form class="flex flex-col py-6 space-y-6 md:py-0 md:px-6 text-left">
+			<form class="flex flex-col py-4 space-y-4 md:space-y-6 md:py-0 md:pl-6 md:border-l border-black text-left">
 				<label class="block">
 					<span class="mb-1 text-left">Nombre completo:</span>
 					<input type="text" placeholder="Introduce tu nombre..." class="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri">
@@ -26,7 +26,7 @@
 					<span class="mb-1">Cuéntanos más a detalle:</span>
 					<textarea rows="3" class="block w-full rounded-md focus:ring focus:ri focus:ri"></textarea>
 				</label>
-				<button type="button" class="self-center px-8 py-3 text-lg text-white rounded focus:ring hover:ring focus:ri focus:ri hover:ri">Enviar</button>
+				<button type="button" class="w-full md:w-auto self-center px-8 py-3 text-lg text-white rounded focus:ring hover:ring focus:ri focus:ri hover:ri">Enviar</button>
 			</form>
 		</div>
 	</section>
