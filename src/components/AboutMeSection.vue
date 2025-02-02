@@ -11,7 +11,7 @@
         <div class="mt-10 lg:mt-20 lg:flex lg:items-start">
             <div class="lg:w-1/2">
                 <img class="object-cover object-center w-full rounded-lg shadow" 
-                     src="../assets/carla.png" 
+                     src="../assets/carla.JPG" 
                      alt="Carla Álvarez Llaneza">
             </div>
 
