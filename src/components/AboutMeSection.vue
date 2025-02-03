@@ -10,25 +10,25 @@
 
         <div class="mt-10 lg:mt-20 lg:flex lg:items-start">
             <div class="lg:w-1/2">
-                <img class="object-cover object-center w-full h-[720px] max-h-[80vh] rounded-lg shadow" 
-                     src="../assets/carla2.png" 
+                <img class="object-cover object-center w-full rounded-lg shadow" 
+                     src="../assets/carla-pp.png" 
                      alt="Carla Álvarez Llaneza">
             </div>
 
-            <div class="mt-8 lg:w-1/2 lg:px-10 lg:mt-0">
+            <div class="mt-8 lg:w-1/2 lg:px-10 lg:mt-0 xl:mt-20 text-center lg:text-left">
                 <h1 class="text-2xl font-semibold mb-8">
                     ¡Hola! Mi nombre es Carla Álvarez Llaneza.
                 </h1>
 
-                <p class="max-w-lg mt-6 text-psicoletos text-left">
+                <p class="max-w-lg mt-6 text-psicoletos mx-auto lg:mx-0 text-left">
                     Soy psicóloga sanitaria (Nº M-37087) con amplia experiencia en el campo de la salud mental. A lo largo de mi carrera, he trabajado con una amplia variedad de poblaciones, incluyendo adultos, adolescentes, niños y familias, ayudándolos a enfrentar y superar diversos desafíos emocionales y psicológicos.
                 </p>
 
-                <p class="max-w-lg mt-6 text-psicoletos text-left">
+                <p class="max-w-lg mt-6 text-psicoletos mx-auto lg:mx-0 text-left">
                     Mi enfonque terapéutico se basa en la Terapia Cognitivo-Conductual (TCC). Utilizo una combinación de técnicas basadas en la evidencia para ayudar a mis pacientis para desarrollar prácticas para manejar el estrés, la ansiedad, la depresión y otros problemas de salud mental.
                 </p>
 
-                <p class="max-w-lg mt-6 text-psicoletos text-left">
+                <p class="max-w-lg mt-6 text-psicoletos mx-auto lg:mx-0 text-left">
                     Además de mi práctica clínica, me dedico a la educación y divulgación de la psicología a través de redes sociales, webinars, talleres, etc. 
                 </p>
 
